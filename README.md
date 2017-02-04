@@ -4,6 +4,8 @@
 
 ### Make CommonJS-Incompatible Files Browserifyable
 
+This is a modified fork that allows shim config to be passed by the browserify.transform() API call.
+
 #### package.json
 
 ```json
